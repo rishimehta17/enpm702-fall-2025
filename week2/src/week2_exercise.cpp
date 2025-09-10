@@ -8,11 +8,11 @@ int main() {
     int a;
     int b = 3.2;
     int c(1.3);
-    int d{3.5};
+    // int d{3.5};
     std::cout << a << '\n';
     std::cout << b << '\n';
     std::cout << c << '\n';
-    std::cout << d << '\n';
+    // std::cout << d << '\n';
 
   //==============
   //======== Exercise #3
