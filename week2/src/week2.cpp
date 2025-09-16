@@ -4,7 +4,7 @@
 #define SQUARE(x) ((x) * (x))
 #define PI 3.14159
 
-int main() {
+int main(){
   //==============
   //======== 1
   //==============
